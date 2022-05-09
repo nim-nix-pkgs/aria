@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/aria",
   "refs": [
-    "refs/heads/nim",
+    "fatal: unable to access 'https://github.com/juancarlospaco/aria/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
